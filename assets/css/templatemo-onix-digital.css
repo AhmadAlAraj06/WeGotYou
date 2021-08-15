@@ -868,15 +868,7 @@ Banner Style
   overflow: hidden;
 }
 
-.main-banner:after {
-  content: '';
-  background-repeat: no-repeat;
-  position: absolute;
-  left: 0;
-  top: 100px;
-  width: 267px;
-  height: 532px;
-}
+
 
 .main-banner:before {
   content: '';
